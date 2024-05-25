@@ -18,7 +18,6 @@ The node groups are made entirely using the default available nodes included in 
 ### Node details :
 
 ### 1. Display Value 
-![Display Value Image](./QuickNodeImages/DisplayValueIMG.png)
 
 The Display_Value Node Group is used for displaying values as strings or meshes.
 
@@ -32,7 +31,6 @@ The Display_Value Node Group is used for displaying values as strings or meshes.
 2. **String:** The String data type is outputted if required by the user.
 
 ### 2. String_To_Mesh 
-![String_To_Mesh Image](./QuickNodeImages/StringToMeshIMG.png)
 
 **Inputs:**
 1. **String:** The string required to be converted to a mesh is inputted/connected here.
@@ -47,7 +45,6 @@ The Display_Value Node Group is used for displaying values as strings or meshes.
 1. **Geometry:** The mesh of the string is outputted from here.
 
 ### 3. String_Roll 
-![String_Roll Image](./QuickNodeImages/StringRollIMG.png)
 
 The String_Roll Node Group is used to rotate a string one letter at a time in any direction.
 
@@ -61,7 +58,6 @@ The String_Roll Node Group is used to rotate a string one letter at a time in an
 2. **String:** A String data type is outputted.
 
 ### 4. String_Glitch 
-![String_Glitch Image](./QuickNodeImages/StringGlitchIMG.png)
 
 The String_Glitch Node Group is used to cycle through random “Glitchy” Characters for the inputted string.
 
@@ -75,7 +71,6 @@ The String_Glitch Node Group is used to cycle through random “Glitchy” Chara
 2. **String:** A String data type is outputted.
 
 ### 5. Mesh_Noise 
-![Mesh_Noise Image](./QuickNodeImages/MeshNoiseIMG.png)
 
 The “Mesh_Noise” Node Group is used to add extrusions and make the mesh look noisy/Distorted.
 
@@ -90,7 +85,6 @@ The “Mesh_Noise” Node Group is used to add extrusions and make the mesh look
 8. **Rotation:** Random rotation value.
 
 ### 6. GraphGen 
-![GraphGen Image](./QuickNodeImages/GraphGenIMG.png)
 
 This node is used for generating graphs from mathematical equations entered into the node. To enter an equation, open the node group and make your equation using math nodes and connect them to the labelled connections inside the group.
 
@@ -104,7 +98,6 @@ This node is used for generating graphs from mathematical equations entered into
 7. **Resolution:** Controls the amount of points the curve is divided into.
 
 ### 7. Distribute_Instances_On_Faces 
-![Distribute_Instances_On_Faces Image](./QuickNodeImages/DistributeInstancesOnFacesIMG.png)
 
 This node makes it possible to distribute instances directly on faces.
 
@@ -117,7 +110,6 @@ This node makes it possible to distribute instances directly on faces.
 6. **Instance Scale:** Controls the scale of all the distributed instances on the faces.
 
 ### 8. Mesh_Array 
-![Mesh_Array Image](./QuickNodeImages/MeshArrayIMG.png)
 
 This node makes it possible to create an array of geometry (Meshes) and access either individual or a range of meshes using indices.
 
