@@ -13,6 +13,17 @@ The nodes include:
 Date: 25/5/24  
 Node groups made by Tejas Joshi
 
+---
+
+### How to install & use : 
+
+1) In your current Blender Project, Go to : 
+File ---> Append ---> Select the 'QuickNodes.blend' file ---> Select NodeTrees ---> Import all
+
+2) In the Geometry Nodes panel under groups, all the new Node Groups will be visible.
+
+---
+
 The node groups are made entirely using the default available nodes included in Blender 4.1 & do not have any external components. The explanation of the nodes is written below.
 
 ### Node details :
